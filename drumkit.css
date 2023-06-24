@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    color: aliceblue;
+    font-family: cursive;
+
+}
+div{
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+h1{
+    height: 100px;
+    margin-top: 150px;
+    margin-left: 650px;
+    color: blanchedalmond;
+}
+button{
+    height: 100px;
+    width: 150px;
+    box-shadow: 500px wheat;
+    border-radius: 35px;
+    border-color: blanchedalmond;
+}
